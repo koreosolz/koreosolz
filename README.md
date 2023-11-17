@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cloud Computing Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/koreosolz/)
+  - [Active Directory Home Lab](https://github.com/koreosolz/ActiveDirectoryLab/blob/main/README.md)
 
 <h2>📺 Certifications</h2>
 
